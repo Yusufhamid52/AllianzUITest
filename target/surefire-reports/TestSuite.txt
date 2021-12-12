@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 16, Failures: 2, Errors: 0, Skipped: 14, Time elapsed: 0.468 s <<< FAILURE! - in TestSuite
+allianzUITests.TestToolsQAUI.setUpDriver  Time elapsed: 0.369 s  <<< FAILURE!
+java.lang.IllegalStateException: The driver is not executable: /Users/gorachz/eclipse-workspace/SpriteCloudToolsQATest/src/test/java/Utils/chromedriver.exe
+
+allianzUITests.TestDemoQAUI.setUpDriver  Time elapsed: 0.004 s  <<< FAILURE!
+java.lang.IllegalStateException: The driver is not executable: /Users/gorachz/eclipse-workspace/SpriteCloudToolsQATest/src/test/java/Utils/chromedriver.exe
+

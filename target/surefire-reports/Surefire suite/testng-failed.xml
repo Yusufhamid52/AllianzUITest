@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [Surefire suite]">
+  <test thread-count="1" verbose="0" name="Surefire test(failed)">
+    <classes>
+      <class name="allianzUITests.TestDemoQAUI">
+        <methods>
+          <include name="setUpBrowser"/>
+          <include name="before"/>
+          <include name="beforeSuite"/>
+          <include name="getTestResultInExtentReport"/>
+          <include name="beforeTest"/>
+          <include name="testRegistrationFormIsPresent"/>
+          <include name="beforeMethod"/>
+          <include name="setUpDriver"/>
+        </methods>
+      </class> <!-- allianzUITests.TestDemoQAUI -->
+      <class name="allianzUITests.TestToolsQAUI">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="testTutorialsTabMenu"/>
+          <include name="testSearchTutorials"/>
+          <include name="before"/>
+          <include name="beforeSuite"/>
+          <include name="getTestResultInExtentReport"/>
+          <include name="beforeTest"/>
+          <include name="setUpBrowser"/>
+          <include name="setUpDriver"/>
+        </methods>
+      </class> <!-- allianzUITests.TestToolsQAUI -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->

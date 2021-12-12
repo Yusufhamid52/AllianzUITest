@@ -1,0 +1,6 @@
+toolsQAPages/DemoQAHomePage.class
+base/WebDriverSetUp.class
+toolsQAPages/ToolsQAHomePage.class
+base/Constants.class
+toolsQAPages/TutorialsPage.class
+base/BaseTestSetup.class
