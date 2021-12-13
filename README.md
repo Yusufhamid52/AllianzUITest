@@ -6,7 +6,7 @@ This is a maven project created using **Selenium Framework with Java**.
 
 The project follows **Page object model** mechanism with **Page Factory**. **Javadoc** is added for each class. **Extent Report** is used for creating reports with logs and screenshot (only in case of failure). **TestNG framework** is used for executing the tests.
 
-**TestCases** folder contains SpriteCloud UI tests.docx which has 3 UI test cases with description, steps and expected result.
+**TestCases** folder contains Allianz UI tests.docx which has 3 UI test cases with description, steps and expected result.
 
 ## Project Hierarchy
 
